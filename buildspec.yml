@@ -15,5 +15,5 @@ phases:
     - echo Build completed on `date`
 artifacts:
   files:
-  - target/order-service.jar
+  - target/order-service 0.0.1-SNAPSHOT
   - scripts/*
